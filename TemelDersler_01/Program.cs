@@ -11,11 +11,12 @@ namespace TemelDersler_01
         static void Main(string[] args)
         {
             Console.WriteLine("Merhaba, C# Programlama Dili!");
+            Console.WriteLine("Merhaba, C# Programlama Dili!");
 
 
 
 
-            Console.Read()
+            Console.Read();
         }
     }
 }
